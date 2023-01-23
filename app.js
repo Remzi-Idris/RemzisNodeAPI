@@ -35,3 +35,8 @@ app.get("/", (req, res) =>{
 app.listen(PORT,  () =>{
     console.log("Listening to port " + PORT)
 })
+
+// git status
+// git add .
+// git commit -m "first init"
+// git push
